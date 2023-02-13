@@ -35,10 +35,17 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Additional Requirements
 This application needed to use Jest for running the unit tests and Inquirer for collecting input from the user. 
 #
+## Installation
+- Download via Github
+- Install inquirer
+#
+## Usage 
+- Open terminal on your device
+- Type 'node index.js'
+- Go through the prompts and answer the questions detailed
+- Once completed, a logo.svg file will be generated.
+- The command "npm run test" will make sure all tests have passed.
 
-## Usage
-The application will be invoked using the following command: node index.js
-The command "npm run test" will make sure all tests have passed.
 #
 
 ## FAQ
@@ -47,3 +54,7 @@ What is the link to the Demo video?
 
 What is your repo link?
 - [Repo](https://github.com/navaulakh24/My-Logo-Maker)
+
+What is your contact information?
+- Email: navdeep_aulakh24@hotmail.com
+- GitHub: navaulakh24
