@@ -1,0 +1,30 @@
+{
+  "name": "object-oriented-programming-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaulakh24/Object-Oriented-Programming-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navaulakh24/Object-Oriented-Programming-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/navaulakh24/Object-Oriented-Programming-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
