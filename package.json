@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/navaulakh24/Object-Oriented-Programming-Logo-Maker#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^28.1.3"
